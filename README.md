@@ -65,4 +65,3 @@ If you found this project useful, consider citing our extended abstract.
 }
 ```
 
-Implementation, development and training in this project were supported by funding from the Mark Dredze Lab at Johns Hopkins University.
